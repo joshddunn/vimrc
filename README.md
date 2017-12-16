@@ -1,12 +1,8 @@
 # My vim configuration.
 
-This configuration is a constant work in progress.
+This configuration is a constant work in progress and is built for mac.
 
 ## Installation
-
-Make sure you have mvim (or equivalent) on your system.
-
-    brew install macvim
 
 Installing this configuration is relatively easy. First, clone this repository.
 
@@ -50,13 +46,3 @@ I use [vundle](https://github.com/VundleVim/Vundle.vim) as the plugin manager.
 - [youcompleteme](https://github.com/valloric/youcompleteme)
 
 This configuration allows you to undo changes, even after closing the file.
-
-## Brew install
-
-Global searches and file searching can be sped up by using `ripgrep` instead of the defaults.
-
-    brew install ripgrep
-
-Install `grip` for markdown conversion.
-
-    brew install grip

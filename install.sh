@@ -9,6 +9,8 @@ source ~/.vim/config/plugins.vim
 source ~/.vim/config/config.vim
 source ~/.vim/config/plugins_config.vim' > ~/.vimrc
 
+brew bundle
+
 git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 vim +PluginInstall +qall
 
