@@ -11,7 +11,6 @@ call vundle#begin()
 Plugin 'VundleVim/Vundle.vim'
 
 " personal plugins
-Plugin 'altercation/vim-colors-solarized'
 Plugin 'ap/vim-css-color'
 Plugin 'dag/vim-fish'
 Plugin 'itchyny/lightline.vim'
@@ -21,6 +20,7 @@ Plugin 'joom/vim-commentary'
 Plugin 'kien/ctrlp.vim'
 Plugin 'maxbrunsfeld/vim-yankstack'
 Plugin 'mileszs/ack.vim'
+Plugin 'morhetz/gruvbox'
 Plugin 'scrooloose/nerdtree'
 Plugin 'scrooloose/syntastic'
 Plugin 'terryma/vim-multiple-cursors'

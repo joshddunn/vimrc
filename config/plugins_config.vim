@@ -3,7 +3,7 @@ vmap Si S(i_<esc>f)
 
 " lightline
 let g:lightline = {
-     \ 'colorscheme': 'solarized',
+     \ 'colorscheme': 'gruvbox',
      \ 'active': {
      \   'left': [ [ 'mode', 'paste' ],
      \             [ 'readonly', 'statusline', 'filename', 'modified' ] ]
@@ -53,7 +53,7 @@ map <leader>g :Ack -F ""<Left>
 " colorscheme
 set background=dark
 try
-  colorscheme solarized
+  colorscheme gruvbox
 catch
 endtry
 
