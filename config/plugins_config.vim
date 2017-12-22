@@ -87,3 +87,7 @@ let vim_markdown_preview_hotkey='<C-m>'
 " trigger abolish
 inoremap _ <C-]>_
 inoremap - <C-]>-
+
+" anyfold
+let anyfold_activate=1
+set foldlevel=99

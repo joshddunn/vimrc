@@ -38,6 +38,7 @@ I use [vundle](https://github.com/VundleVim/Vundle.vim) as the plugin manager.
 - [rails](https://github.com/joshddunn/vim-rails) (this is a fork of tpope's vim-rails with some added functionality)
 - [repeat](https://github.com/tpope/vim-repeat)
 - [syntastic](https://github.com/scrooloose/syntastic)
+- [vim-anyfold](https://github.com/pseewald/vim-anyfold)
 - [vim-colors-solarized](https://github.com/altercation/vim-colors-solarized)
 - [vim-fish](https://github.com/dag/vim-fish)
 - [vim-markdown-preview](https:://github.com/jamshedvesuna/vim-markdown-preview')
