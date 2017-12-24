@@ -39,6 +39,7 @@ I use [vundle](https://github.com/VundleVim/Vundle.vim) as the plugin manager.
 - [repeat](https://github.com/tpope/vim-repeat)
 - [syntastic](https://github.com/scrooloose/syntastic)
 - [vim-anyfold](https://github.com/pseewald/vim-anyfold)
+- [vim-coffee-script](https://github.com/kchmck/vim-coffee-script)
 - [vim-colors-solarized](https://github.com/altercation/vim-colors-solarized)
 - [vim-fish](https://github.com/dag/vim-fish)
 - [vim-markdown-preview](https:://github.com/jamshedvesuna/vim-markdown-preview')
@@ -47,3 +48,11 @@ I use [vundle](https://github.com/VundleVim/Vundle.vim) as the plugin manager.
 - [youcompleteme](https://github.com/valloric/youcompleteme)
 
 This configuration allows you to undo changes, even after closing the file.
+
+## Notes
+
+### vim-coffee-script
+
+Need to globally install coffee script using npm for syntastic support
+
+    npm install -g coffee-script
