@@ -91,3 +91,12 @@ inoremap - <C-]>-
 " anyfold
 let anyfold_activate=1
 set foldlevel=99
+
+" jsx
+let g:jsx_ext_required = 0
+
+" node
+set runtimepath^=~/.vim/bundle/node 
+
+" javascript
+let g:javascript_plugin_flow = 1

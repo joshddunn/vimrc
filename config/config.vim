@@ -1,5 +1,3 @@
-syntax on
-
 " folding
 set foldmethod=marker
 
@@ -18,10 +16,6 @@ set whichwrap+=<,>,h,l,[,]
 " map leader key
 let mapleader = ","
 let g:mapleader = ","
-
-" filetype plugins
-filetype plugin on
-filetype indent on
 
 " autoread
 set autoread
