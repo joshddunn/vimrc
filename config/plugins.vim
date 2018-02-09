@@ -1,4 +1,5 @@
 set nocompatible              " be iMproved, required
+filetype off
 
 " set the runtime path to include Vundle and initialize
 set rtp+=~/.vim/bundle/Vundle.vim
@@ -22,9 +23,6 @@ Plugin 'kien/ctrlp.vim'
 Plugin 'maxbrunsfeld/vim-yankstack'
 Plugin 'mileszs/ack.vim'
 Plugin 'moll/vim-node'
-Plugin 'morhetz/gruvbox'
-Plugin 'mxw/vim-jsx'
-Plugin 'pangloss/vim-javascript'
 Plugin 'pseewald/vim-anyfold'
 Plugin 'scrooloose/nerdtree'
 Plugin 'scrooloose/syntastic'
@@ -35,7 +33,13 @@ Plugin 'tpope/vim-fugitive'
 Plugin 'tpope/vim-repeat'
 Plugin 'tpope/vim-surround'
 Plugin 'valloric/youcompleteme'
+Plugin 'pangloss/vim-javascript'
+
+" must be in this order
+Plugin 'flazz/vim-colorschemes'
+Plugin 'morhetz/gruvbox'
 Plugin 'jelera/vim-javascript-syntax'
+Plugin 'mxw/vim-jsx'
 
 " a fork of 'tpope/vim-rails'
 Plugin 'joshddunn/vim-rails'
