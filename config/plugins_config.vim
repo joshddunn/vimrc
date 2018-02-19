@@ -51,6 +51,7 @@ endif
 map <leader>g :Ack -F ""<Left>
 
 " colorscheme
+" line 558 change color from Normal to GruvboxBlue
 set background=dark
 try
   colorscheme gruvbox
