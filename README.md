@@ -1,6 +1,6 @@
 # My vim configuration.
 
-This configuration is a constant work in progress and is built for mac.
+This configuration is a constant work in progress and is built for mac. Testing out neovim.
 
 ## Installation
 

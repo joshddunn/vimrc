@@ -62,7 +62,7 @@ autocmd FileType python setlocal colorcolumn=79
 
 " set default font
 set encoding=utf8
-set guifont=Menlo:h12
+" set guifont=Menlo:h12
 set ffs=unix,dos,mac
 
 " no backups
