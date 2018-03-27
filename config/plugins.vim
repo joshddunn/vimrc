@@ -36,6 +36,7 @@ Plugin 'tpope/vim-surround'
 Plugin 'pangloss/vim-javascript'
 Plugin 'nathanaelkane/vim-indent-guides'
 Plugin 'shougo/deoplete.nvim'
+" Plugin 'uplus/deoplete-solargraph'
 
 " must be in this order
 Plugin 'flazz/vim-colorschemes'
