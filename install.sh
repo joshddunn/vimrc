@@ -7,12 +7,14 @@ echo 'set runtimepath+=~/.vim
 
 source ~/.vim/config/plugins.vim
 source ~/.vim/config/config.vim
-source ~/.vim/config/plugins_config.vim' > ~/.config/nvim/init.vim
-# source ~/.vim/config/plugins_config.vim' > ~/.vimrc
+source ~/.vim/config/plugins_config.vim' > ~/.vimrc
+
+# neovim
+# > ~/.config/nvim/init.vim
 
 brew bundle
 
 git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
-# vim +PluginInstall +qall
+vim +PluginInstall +qall
 
 echo "Josh's vim configuration is installed."

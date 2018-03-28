@@ -32,10 +32,12 @@ Plugin 'tpope/vim-endwise'
 Plugin 'tpope/vim-fugitive'
 Plugin 'tpope/vim-repeat'
 Plugin 'tpope/vim-surround'
-" Plugin 'valloric/youcompleteme'
+Plugin 'valloric/youcompleteme'
 Plugin 'pangloss/vim-javascript'
 Plugin 'nathanaelkane/vim-indent-guides'
-Plugin 'shougo/deoplete.nvim'
+
+" neovim
+" Plugin 'shougo/deoplete.nvim'
 " Plugin 'uplus/deoplete-solargraph'
 
 " must be in this order
