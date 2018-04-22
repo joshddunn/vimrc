@@ -84,6 +84,7 @@ let g:rails_custom_pluralize = {
 " markdown preview
 let vim_markdown_preview_github=1
 let vim_markdown_preview_toggle=1
+let vim_markdown_preview_temp_file=1
 let vim_markdown_preview_browser='Google Chrome'
 let vim_markdown_preview_hotkey='<C-m>'
 
