@@ -35,6 +35,8 @@ Plugin 'tpope/vim-surround'
 Plugin 'valloric/youcompleteme'
 Plugin 'pangloss/vim-javascript'
 Plugin 'nathanaelkane/vim-indent-guides'
+Plugin 'godlygeek/tabular'
+Plugin 'plasticboy/vim-markdown'
 
 " neovim
 " Plugin 'shougo/deoplete.nvim'

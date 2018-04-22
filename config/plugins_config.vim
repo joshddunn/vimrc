@@ -114,3 +114,6 @@ let g:indent_guides_guide_size = 1
 " let g:deoplete#enable_at_startup = 1
 " inoremap <expr> <Tab> pumvisible() ? "\<C-n>" : "\<Tab>"
 " inoremap <expr> <S-Tab> pumvisible() ? "\<C-p>" : "\<S-Tab>"
+
+" vim-markdown
+let g:vim_markdown_new_list_item_indent = 0
