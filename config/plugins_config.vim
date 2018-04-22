@@ -18,7 +18,9 @@ nmap <c-p> <Plug>yankstack_substitute_older_paste
 nmap <c-P> <Plug>yankstack_substitute_newer_paste
 
 " vim-multiple-cursors
-let g:multi_cursor_next_key="\<C-s>"
+let g:multi_cursor_start_word_key = '<C-s>'
+let g:multi_cursor_next_key = '<C-s>'
+let g:multi_cursor_quit_key = '<Esc>'
 
 " ctrlp
 let g:ctrlp_working_path_mode = 0
